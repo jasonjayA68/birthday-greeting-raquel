@@ -48,7 +48,7 @@ export default function MessageCard() {
           </span>
           <span className="sr-only">{MESSAGE}</span>
         </p>
-        <p className={`card__signature${signed ? " is-visible" : ""}`}>Love, Ate Mae De Leon</p>
+        <p className={`card__signature${signed ? " is-visible" : ""}`}>Love, Ate Mae</p>
       </div>
     </section>
   );
